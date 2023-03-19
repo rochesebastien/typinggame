@@ -34,6 +34,14 @@ body{
     font-size: 1.5em;
     font-family: monospace;
     overflow: hidden;
+    padding: 10px 0px ;
+    .wrong{
+        color: red;
+    }
+
+    .good{
+        color: green;
+    }
 }
 
 .option-ctn{

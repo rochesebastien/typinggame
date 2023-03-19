@@ -29,6 +29,13 @@ body {
   font-size: 1.5em;
   font-family: monospace;
   overflow: hidden;
+  padding: 10px 0px;
+}
+.text-ctn .wrong {
+  color: red;
+}
+.text-ctn .good {
+  color: green;
 }
 
 .option-ctn {
